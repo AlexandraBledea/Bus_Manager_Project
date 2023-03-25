@@ -1,0 +1,22 @@
+ro/ubb/catalog/core/repository/BusRepositoryTest.java
+ ro.ubb.catalog.core.repository.BusRepositoryTest
+ro/ubb/catalog/core/repository/CityRepositoryTest.java
+ ro.ubb.catalog.core.repository.CityRepositoryTest
+ro/ubb/catalog/core/repository/DriverRepositoryTest.java
+ ro.ubb.catalog.core.repository.DriverRepositoryTest
+ro/ubb/catalog/core/service/BusStopServiceTest.java
+ ro.ubb.catalog.core.service.BusStopServiceTest
+ro/ubb/catalog/core/service/CityServiceTest.java
+ ro.ubb.catalog.core.service.CityServiceTest
+ro/ubb/catalog/core/service/BusStationServiceTest.java
+ ro.ubb.catalog.core.service.BusStationServiceTest
+ro/ubb/catalog/core/ITConfig.java
+ ro.ubb.catalog.core.ITConfig
+ro/ubb/catalog/core/service/DriverServiceTest.java
+ ro.ubb.catalog.core.service.DriverServiceTest
+ro/ubb/catalog/core/JPAConfigIT.java
+ ro.ubb.catalog.core.JPAConfigIT
+ro/ubb/catalog/core/repository/BusStationRepositoryTest.java
+ ro.ubb.catalog.core.repository.BusStationRepositoryTest
+ro/ubb/catalog/core/service/BusServiceTest.java
+ ro.ubb.catalog.core.service.BusServiceTest

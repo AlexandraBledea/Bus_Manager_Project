@@ -1,0 +1,10 @@
+ro/ubb/catalog/web/controller/CityControllerTest.java
+ ro.ubb.catalog.web.controller.CityControllerTest
+ro/ubb/catalog/web/controller/BusStopControllerTest.java
+ ro.ubb.catalog.web.controller.BusStopControllerTest
+ro/ubb/catalog/web/controller/DriverControllerTest.java
+ ro.ubb.catalog.web.controller.DriverControllerTest
+ro/ubb/catalog/web/controller/BusControllerTest.java
+ ro.ubb.catalog.web.controller.BusControllerTest
+ro/ubb/catalog/web/controller/BusStationControllerTest.java
+ ro.ubb.catalog.web.controller.BusStationControllerTest
